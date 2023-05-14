@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025047574817",
+    "project_id": "sandesha1",
+    "storage_bucket": "sandesha1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025047574817:android:a0cb27494202778bdf6660",
+        "android_client_info": {
+          "package_name": "com.example.sandeshapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025047574817-4kupon1keeifunoafv3ofadp9h4cb5ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJM7ybDbogztrAN_8e4qmkQ0Wq070X7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025047574817-4kupon1keeifunoafv3ofadp9h4cb5ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
